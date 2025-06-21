@@ -19,12 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=Sarkar-hon-Yawr&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
----
+
 
 > 🚀 **Version**: `3.0.0 - Neon Edition`  
 > 📅 **Status**: `Maintained and Active`  
-
----
 
 ## 🌐 VISUAL OVERVIEW
 
@@ -36,8 +34,6 @@
   <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
 </div>
 
----
-
 ## 🛰️ DEPLOYMENT GUIDE
 
 ### <img src="https://github.com/Sarkar-hon-Yawr/Sarkar-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
@@ -48,7 +44,6 @@
   </a>
 </div>
 
----
 
 ### <img src="https://github.com/Sarkar-hon-Yawr/Sarkar-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Generate Session ID
 
@@ -58,11 +53,9 @@
 - ⚠️ LINK 2  
   [PAIR CODE ALT](https://sarkar-md-session-generator.koyeb.app/)
 
-```bash
 ⚠️ NOTE: VPN may be required if code generation fails
 
 
----
 
 ⚙️ EASY DEPLOY BUTTONS
 
@@ -78,7 +71,6 @@
     </tr>
   </table>
 </div>
----
 
 🚀 FEATURES
 
@@ -89,7 +81,6 @@
 ✓ Cool Cyber UI + Matrix Animation Support
 
 
----
 
 📡 JOIN SUPPORT CHANNEL
 
@@ -98,7 +89,6 @@
     <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
----
 
 🧠 DEVELOPER STATS
 
@@ -107,7 +97,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Sarkar-hon-Yawr&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
----
 
 ⚠️ DISCLAIMER
 
@@ -117,7 +106,6 @@ Use responsibly. Misuse may lead to account bans.
 
 
 
----
 
 🛡️ LICENSE
 
@@ -126,7 +114,6 @@ Use responsibly. Misuse may lead to account bans.
 # Version: 3.0.0 - Neon Edition
 
 
----
 
 <p align="center">
   <img src="https://github.com/Sarkar-hon-Yawr/Sarkar-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
