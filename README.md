@@ -51,7 +51,7 @@
   [PAIR CODE](https://sarkarmd-session-generator.koyeb.app/)
 
 - ⚠️ LINK 2  
-  [PAIR CODE ALT](https://sarkar-md-session-generator.koyeb.app/)
+  [PAIR CODE 2](https://sarkar-md-session-generator.koyeb.app/)
 
 ⚠️ NOTE: VPN may be required if code generation fails
 
