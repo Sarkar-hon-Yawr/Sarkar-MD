@@ -62,7 +62,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Sarkar-hon-Yawr/Sarkar-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Bandaheali/Sarkar-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Sarkar-hon-Yawr/Sarkar-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/></a></td>
     </tr>
     <tr>
