@@ -48,10 +48,10 @@
 ### <img src="https://github.com/Sarkar-hon-Yawr/Sarkar-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Generate Session ID
 
 - ⚠️ LINK 1  
-  [PAIR CODE](https://sarkarmd-session-generator.koyeb.app/)
+  [PAIR CODE](https://sarkar-md-paircode.koyeb.app/)
 
 - ⚠️ LINK 2  
-  [PAIR CODE 2](https://sarkar-md-session-generator.koyeb.app/)
+  [PAIR CODE 2](https://sarkar-md-paircode.koyeb.app/)
 
 ⚠️ NOTE: VPN may be required if code generation fails
 
