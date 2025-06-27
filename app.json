@@ -29,7 +29,7 @@
     "AUTO_STATUS_REACT": {
       "description": "Bot will auto-like statuses if true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "OWNER_NAME": {
       "description": "Name shown in replies",
@@ -39,7 +39,7 @@
     "OWNER_NUMBER": {
       "description": "Owner number with country code",
       "required": true,
-      "value": "92325×××××××"
+      "value": "94720695329"
     },
     "REJECT_CALL": {
       "description": "Bot will auto-reject calls if true",
